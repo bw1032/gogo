@@ -5,7 +5,8 @@ import (
 	"github.com/jung-kurt/gofpdf"
 )
 
-func C(){
+func TouchPdf() {
+
 	pdf := gofpdf.New("P", "mm", "A4", "")
 	pdf.AddPage()
 	pdf.SetFont("Arial", "B", 16)
