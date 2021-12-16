@@ -4,9 +4,16 @@ import (
 	"testing"
 )
 
-//go test -v a.go 0_all_test.go -test.run TestA
+//go test -v 显示详细信息
+//go test -v a.go 0_all_test.go -test.run TestA 执行具体方法
+//go test -run TestA  执行具体方法  执行具体方法 加载所有.go 文件
+
 func TestA(t *testing.T) {
-	//方法或函数调用时，传入参数都是值复制（跟赋值一致），数组用于函数传参时是值复制
-	//除非是map、slice、channel、指针类型这些特殊类型是引用传递。
+	//方法或函数调用传参数, 数组用值传递, map、slice、channel、指针类型这些特殊类型是引用传递。
 	A()
+}
+
+func TestB(t *testing.T) {
+	//utf8.RuneCountInString(a) 字符长度  len(a) 字节长度
+	B()
 }
