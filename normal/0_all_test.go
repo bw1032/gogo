@@ -14,6 +14,6 @@ func TestA(t *testing.T) {
 }
 
 func TestB(t *testing.T) {
-	//utf8.RuneCountInString(a) 字符长度  len(a) 字节长度
+    //字符串相关
 	B()
 }
