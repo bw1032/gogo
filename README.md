@@ -11,4 +11,4 @@
 2. [字符串相关](https://github.com/bw1032/gogo/blob/main/normal/b.go) 
 
 ##### 常用功能
-1. [golang生成pdf](https://github.com/bw1032/gogo/blob/main/normal/c.go) 
+1. [golang生成pdf](https://github.com/bw1032/gogo/blob/main/tool/pdf.go) 
