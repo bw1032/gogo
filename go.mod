@@ -11,4 +11,7 @@ go 1.12
 //verify	verify dependencies have expected content (验证依赖是否正确）
 //why	    explain why packages or modules are needed(解释为什么需要依赖)
 
-require golang.org/x/exp v0.0.0-20211214223157-bafe2e20209a
+require (
+	github.com/jung-kurt/gofpdf v1.16.2
+	golang.org/x/exp v0.0.0-20211214223157-bafe2e20209a
+)

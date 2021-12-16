@@ -17,3 +17,8 @@ func TestB(t *testing.T) {
     //字符串相关
 	B()
 }
+
+func TestC(t *testing.T) {
+	//golang 生成 pdf
+	C()
+}
