@@ -7,7 +7,7 @@
 3. go test -run TestC  执行具体方法 加载所有.go 文件
 
 ##### 面试
-1. [函数值传参和地址传参](https://github.com/bw1032/gogo/blob/main/interview/a.go) 
+1. [值传递和地址传递](https://github.com/bw1032/gogo/blob/main/interview/a.go) 
 2. [字符串相关](https://github.com/bw1032/gogo/blob/main/interview/b.go) 
 
 ##### 常用
