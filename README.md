@@ -8,7 +8,8 @@
 
 ##### 面试
 1. [值传递和地址传递](https://github.com/bw1032/gogo/blob/main/interview/a.go) 
-2. [字符串相关](https://github.com/bw1032/gogo/blob/main/interview/b.go) 
+2. [字符串下标取值](https://github.com/bw1032/gogo/blob/main/interview/b.go) 
+3. [字符串转成byte数组，会发生内存拷贝吗？](https://www.jianshu.com/p/e45f2a69f0aa)
 
 ##### 常用
 1. [golang生成pdf](https://github.com/bw1032/gogo/blob/main/tool/pdf.go) 
