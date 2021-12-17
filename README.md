@@ -4,6 +4,7 @@
 1. [值传递和引用传递](https://github.com/bw1032/gogo/blob/main/interview/a.go) 
 2. [中文字符串下标取值](https://github.com/bw1032/gogo/blob/main/interview/b.go) 
 3. [字符串转成byte数组，会发生内存拷贝吗？](https://www.jianshu.com/p/e45f2a69f0aa)
+4. [翻转字符串"你abc好"](https://github.com/bw1032/gogo/blob/main/interview/c.go)
 
 ##### 常用
 1. [golang生成pdf](https://github.com/bw1032/gogo/blob/main/tool/pdf.go) 
