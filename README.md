@@ -7,7 +7,7 @@
 3. go test -run TestC  执行具体方法 加载所有.go 文件
 
 ##### 面试
-1. [值传递和地址传递](https://github.com/bw1032/gogo/blob/main/interview/a.go) 
+1. [值传递和引用传递](https://github.com/bw1032/gogo/blob/main/interview/a.go) 
 2. [字符串下标取值](https://github.com/bw1032/gogo/blob/main/interview/b.go) 
 3. [字符串转成byte数组，会发生内存拷贝吗？](https://www.jianshu.com/p/e45f2a69f0aa)
 
