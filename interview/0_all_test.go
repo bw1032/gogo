@@ -19,3 +19,7 @@ func TestC(t *testing.T) {
 	//翻转中文字符串
 	C()
 }
+
+func TestD(t *testing.T) {
+	D()
+}
