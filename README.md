@@ -15,6 +15,7 @@
 
 ##### 高级
 * [Golang CSP并发模型](https://www.jianshu.com/p/36e246c6153d)
+* [Go 加密解密算法总结](https://github.com/bw1032/gogo/blob/main/interview/1.md)
 
 ##### 常用
 * [golang生成pdf](https://github.com/bw1032/gogo/blob/main/tool/pdf.go) 
