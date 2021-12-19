@@ -21,5 +21,12 @@ func TestC(t *testing.T) {
 }
 
 func TestD(t *testing.T) {
+	//nil切片和空切片
 	D()
+}
+
+
+func TestE(t *testing.T) {
+	//reflect 反射
+	E()
 }
