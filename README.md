@@ -7,6 +7,7 @@
 4. [翻转字符串"你abc好"](https://github.com/bw1032/gogo/blob/main/interview/c.go)
 4. [nil切片和空切片](https://github.com/bw1032/gogo/blob/main/interview/d.go)
 5. [反射reflect](https://github.com/bw1032/gogo/blob/main/interview/e.go)
+6. [for循环里append元素](https://github.com/bw1032/gogo/blob/main/interview/f.go)
 
 ##### 常用
 1. [golang生成pdf](https://github.com/bw1032/gogo/blob/main/tool/pdf.go) 
