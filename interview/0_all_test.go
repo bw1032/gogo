@@ -30,3 +30,9 @@ func TestE(t *testing.T) {
 	//reflect 反射
 	E()
 }
+
+
+func TestG(t *testing.T) {
+	//select case
+	G()
+}
