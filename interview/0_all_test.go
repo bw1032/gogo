@@ -36,3 +36,8 @@ func TestG(t *testing.T) {
 	//select case
 	G()
 }
+
+func TestH(t *testing.T) {
+	//runtime
+	H()
+}
