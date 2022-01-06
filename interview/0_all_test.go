@@ -41,3 +41,8 @@ func TestH(t *testing.T) {
 	//runtime
 	H()
 }
+
+func TestI(t *testing.T) {
+	//gorutinue
+	I()
+}
