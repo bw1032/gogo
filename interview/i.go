@@ -8,7 +8,7 @@ import (
 
 func I() {
 
-	//goroute(1)
+	goroute(1)
 	// 单核 输出: 先出输出了等号 再输出了协程里的打印
 	// 因为
 	//那么go出去的goroutine到底什么时候能执行到呢？golang的调度器是非抢占式的，在GPM的架构里，
@@ -26,7 +26,7 @@ func I() {
 	// 5
 	// .....
 
-	goroute(2)
+	//goroute(2)
 	// 双核 输出: 协程无需等主进程退出执行  就可开始执行  所以等号 和 协程打印  不固定输出
 
 	// 3
@@ -44,7 +44,7 @@ func goroute(cpu int) {
 
 	runtime.GOMAXPROCS(cpu)
 
-	for i := 0; i <= 40; i++ {
+	for i := 0; i <= 600; i++ {
 		go func(a int) {
 			fmt.Println(a)
 		}(i)
