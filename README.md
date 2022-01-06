@@ -18,6 +18,7 @@
 * [Go 加密解密算法总结](https://github.com/bw1032/gogo/blob/main/interview/1.md)
 * [Go channel 实现原理分析](https://www.jianshu.com/p/d841f251d3bc)
 * [Go 协程](https://github.com/bw1032/gogo/blob/main/interview/i.go)
+* [Go 协程2](https://github.com/bw1032/gogo/blob/main/interview/j.go)
 ##### 常用
 * [golang生成pdf](https://github.com/bw1032/gogo/blob/main/tool/pdf.go) 
 
