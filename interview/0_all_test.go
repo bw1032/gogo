@@ -51,3 +51,8 @@ func TestJ(t *testing.T) {
 	//gorutinue
 	J()
 }
+
+func TestK(t *testing.T) {
+	//gorutinue
+	K()
+}
