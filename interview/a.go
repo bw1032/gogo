@@ -17,6 +17,10 @@ func A() {
 	b = b + 1
 	fmt.Println(a) //1  给b赋值 a的值没有变化 说明是值传递
 
+    e := [3]int32{1,2}
+    f := e
+    f[0] = 3
+    fmt.Println(e)
 
 	fmt.Println(fmt.Sprintf("类型:%T,地址:%p", c, &c)) //类型:[]int32,地址:0xc000118078
 	fmt.Println(fmt.Sprintf("类型:%T,地址:%p", a, &a)) //类型:int,地址:0xc00011a160
