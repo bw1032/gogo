@@ -14,6 +14,7 @@
 * [读写未初始化chan 或者已关闭chan](https://github.com/bw1032/gogo/blob/main/interview/g.go)
 * [数组和切片](https://www.cnblogs.com/vinsent/p/11326417.html)
 * [struct能不能比较](https://github.com/bw1032/gogo/blob/main/interview/l.go)
+* [new和make区别](https://studygolang.com/articles/27079)
 
 ##### 高级
 * [Golang CSP并发模型](https://www.jianshu.com/p/36e246c6153d)
