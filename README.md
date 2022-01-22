@@ -15,6 +15,8 @@
 * [数组和切片](https://www.cnblogs.com/vinsent/p/11326417.html)
 * [struct能不能比较](https://github.com/bw1032/gogo/blob/main/interview/l.go)
 * [new和make区别](https://studygolang.com/articles/27079)
+* [go调度器的设计策略是什么1？](https://blog.csdn.net/jarvan5/article/details/115242224)
+* [go调度器的设计策略是什么2？](https://blog.csdn.net/Tony10010/article/details/116760760)
 
 ##### 高级
 * [Golang CSP并发模型](https://www.jianshu.com/p/36e246c6153d)
