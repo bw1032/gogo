@@ -4,7 +4,7 @@
 * [单元测试&性能测试](https://github.com/guyan0319/golang_development_notes/blob/master/zh/1.9.md)
 
 ##### 死锁
-* [死锁场景&原因总结](https://github.com/bw1032/gogo/blob/main/interview/sisuo/a.go)
+* [channel死锁的几种情况和例子](https://github.com/bw1032/gogo/blob/main/interview/sisuo/a.go)
 
 ##### 基础
 * [值传递和引用传递](https://github.com/bw1032/gogo/blob/main/interview/a.go) 
