@@ -3,6 +3,9 @@
 ##### GO环境
 * [单元测试&性能测试](https://github.com/guyan0319/golang_development_notes/blob/master/zh/1.9.md)
 
+##### 死锁
+* [死锁场景&原因总结](https://github.com/bw1032/gogo/blob/main/interview/sisuo/a.go)
+
 ##### 基础
 * [值传递和引用传递](https://github.com/bw1032/gogo/blob/main/interview/a.go) 
 * [中文字符串下标取值](https://github.com/bw1032/gogo/blob/main/interview/b.go) 
@@ -17,6 +20,7 @@
 * [new和make区别](https://studygolang.com/articles/27079)
 * [go调度器的设计策略是什么1？](https://blog.csdn.net/jarvan5/article/details/115242224)
 * [go调度器的设计策略是什么2？](https://blog.csdn.net/Tony10010/article/details/116760760)
+* [Go常见的引发panic的情况](https://www.jianshu.com/p/b9a2c59b2dd3)
 
 ##### 高级
 * [Golang CSP并发模型](https://www.jianshu.com/p/36e246c6153d)
