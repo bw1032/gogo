@@ -7,7 +7,8 @@
 * [channel死锁的几种情况和例子](https://github.com/bw1032/gogo/blob/main/interview/sisuo/a.go)
 
 ##### 基础
-* [值传递和引用传递](https://github.com/bw1032/gogo/blob/main/interview/a.go) 
+* [切片循环range取值的坑](https://blog.csdn.net/ens160/article/details/120221623)
+* [值传递和引用传递](https://github.com/bw1032/gogo/blob/main/interview/a.go)
 * [中文字符串下标取值](https://github.com/bw1032/gogo/blob/main/interview/b.go) 
 * [字符串转成byte数组，会发生内存拷贝吗？](https://www.jianshu.com/p/e45f2a69f0aa)
 * [翻转字符串"你abc好"](https://github.com/bw1032/gogo/blob/main/interview/c.go)
